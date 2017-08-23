@@ -1,13 +1,11 @@
-# Nome do projeto
+# Space Battle
 
 Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
 
 # Nome compledo dos integrantes do projeto:
 
-* Nome 1
-* Nome 2
-* Nome 3
-* Nome 4
+* Gabriel Calegari Cleim Bueno Mercante
+* Gabriel D'Alessio Ferrara Dias dos Santos
 
 # Imagens do jogo:
 
