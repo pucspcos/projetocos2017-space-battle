@@ -2,7 +2,7 @@
 
 Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
 
-# Nome compledo dos integrantes do projeto:
+# Nome completo dos integrantes do projeto:
 
 * Gabriel Calegari Cleim Bueno Mercante
 * Gabriel D'Alessio Ferrara Dias dos Santos
