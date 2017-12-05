@@ -1,7 +1,6 @@
 # Space Battle
 
-Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
-
+Uma batalha no espaço
 # Nome completo dos integrantes do projeto:
 
 * Gabriel Calegari Cleim Bueno Mercante
